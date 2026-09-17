@@ -32,6 +32,6 @@ Here is the photo of my third iteration image capture on this setup. This iterat
 ## 4th Iteration
 
 ![4th iteration with rubber platform](images/toy_car/0.jpg)
-This image shows the rubber platform at work. This platform uses a rubber sheet in order to reduce drift and unecessary movement while rotating. 
+This image shows the rubber platform at work. This platform uses a rubber sheet in order to reduce drift and unecessary movement while rotating. As you can see I tested this out with a toy car in order to show the huge difference between the bare PLA platform and the platform with the rubber on top. 
 
         
