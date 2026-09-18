@@ -11,8 +11,8 @@ I had been working on the github and the coding for my setup. It was tricky beca
 
 I attched all the parts together and then I worked on the wiring portion of the project. This took me a while because I was new to this. I also had to cut some wires and connect them with a metal heat shrink connector. The nice thing was that all the mess of the wires could just hide away under the platform without being seen. Overall I'm very happy with it and so far so good. 
 
-![wiring showing](images/ecovison_setup_cad/IMG_1336.HEIC)
-<video src="videos/your-video-name.mov" width="100%" controls></video>
+![wiring showing](images/ecovison_setup_cad/IMG_1336.jpeg)
+<video src="videos/IMG_1338.MOV" width="100%" controls></video>
 
 
 
